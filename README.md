@@ -64,11 +64,13 @@ He trabajado como desarrollador independiente para:
 - SQL / PLSQL / MongoDB  
 - C#  
 - JavaScript  
-- HTML + CSS  
+- HTML + CSS
+- TypeScript (desarrollo de plugins para Discord)
 
 ### Tecnologías Web
 - Desarrollo de páginas web para empresas (incluyendo integración de pagos y e-commerce)  
 - Páginas publicadas en plataformas propias y en Amazon
+
 
 ### Infraestructura Cloud
 - Amazon Web Services (AWS):  
