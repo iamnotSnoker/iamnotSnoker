@@ -11,18 +11,15 @@
 
 ### Inicios  
 Mi experiencia en Minecraft comenzó en el servidor **2b2t**, como miembro del clan **Valkyria**, donde desarrollé una comprensión profunda de la lógica del juego, minando código y participando en proyectos como:  
-- **Universal Datatrap**  
+
 - Cliente privado **Valkyria**
 
 ### Desarrollo Técnico y Creativo  
-Posteriormente, me especialicé en la creación de **datapacks** y desarrollo de **mapas personalizados**, dando mi gran paso como **colaborador de Luisb** en el reconocido mapa **Final Paradox**.
-
-Desde entonces, he participado en:  
 - Desarrollo de mapas y sistemas personalizados  
 - Organización de eventos para creadores de contenido  
-- Colaboraciones con entidades públicas como el **Ayuntamiento de Zaragoza**, en eventos como **Zgamer (2023 y 2024)**
+- Colaboraciones con entidades públicas como el **Ayuntamiento de Zaragoza**, en eventos como **Zgamer (2023 ,2024, 2025)**
 
----
+
 
 ## Clientes y Colaboradores
 
@@ -42,17 +39,17 @@ He trabajado como desarrollador independiente para:
 
 ## Proyectos Destacados
 
-### Series y Eventos
-- Final Paradox  
+### Series y Eventos 
 - Genesis y Elorbee – *Soydarmoo*  
 - Cruzter SMP  
-- Zgamer 2023 y 2024
+- Zgamer 2023, 2024 y 2025
+- Canal de Darmitoo
+- 
 
 ### Mapas Desarrollados
 - Gato y Ratón  
-- TheSaladTrap *(en desarrollo)*  
-- Kalamary Desert *(en desarrollo)*  
-- Final Paradox
+- TheSaladTrap *(en desarrollo)*
+- Mapas Zgamer
 
 ---
 
@@ -76,7 +73,7 @@ He trabajado como desarrollador independiente para:
 - Amazon Web Services (AWS):  
   - EC2  
   - Amazon Seller Central
-
+<https://www.oedim.com/>, <https://www.oedimdecor.com/>, <https://www.amazon.es/stores/Oedim/page/0BF8C00C-B9EF-40D6-9683-25E835CD84CB?lp_asin=B0D2DJPZD4&ref_=ast_bln>
 ---
 
 ## Ciberseguridad
@@ -96,12 +93,13 @@ He trabajado como desarrollador independiente para:
 - Desarrollo de aplicaciones móviles con Android SDK  
 - Prototipos de juegos y sistemas interactivos en Unity  
 - Desarrollo de modelos de IA propios, con intención de integrarlos en eventos o mapas de Minecraft
+- Desarrollo de pluggins para discord / vencord
+- Desarrollo de pluggins para Servidores de Minecraft
 
 ---
 
 ## Actualmente en activo con
-
-- RichMaps  
+  
 - Soydarmoo  
 - Alan2k2  
 - Chiletian  
