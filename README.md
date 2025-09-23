@@ -44,7 +44,6 @@ He trabajado como desarrollador independiente para:
 - Cruzter SMP  
 - Zgamer 2023, 2024 y 2025
 - Canal de Darmitoo
-- 
 
 ### Mapas Desarrollados
 - Gato y Ratón  
