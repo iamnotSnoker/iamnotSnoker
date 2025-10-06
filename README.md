@@ -24,7 +24,9 @@ Mi experiencia en Minecraft comenzó en el servidor **2b2t**, como miembro del c
 ## Clientes y Colaboradores
 
 He trabajado como desarrollador independiente para:  
-- **ElRichMC** 
+- **ElRichMC**
+- **Noni**
+- **aXoZer**
 - **Shadoune666**  
 - **Suzyrox**  
 - **Mayichi**  
@@ -32,7 +34,8 @@ He trabajado como desarrollador independiente para:
 - **Chiletian**  
 - **Alan2k2**  
 - **Papitastv**  
-- **NiaLakshart**  
+- **NiaLakshart**
+- **Soukyp**  
 - Y otras comunidades y creadores
 
 ---
@@ -40,12 +43,13 @@ He trabajado como desarrollador independiente para:
 ## Proyectos Destacados
 
 ### Series y Eventos 
+- #SaveMapMaking
 - Genesis y Elorbee – *Soydarmoo*  
 - Cruzter SMP  
 - Zgamer 2023, 2024 y 2025
 - Canal de Darmitoo
 
-### Mapas Desarrollados
+### Mapas Desarrollados (No datapacks para seris o videos)
 - Gato y Ratón  
 - TheSaladTrap *(en desarrollo)*
 - Mapas Zgamer
@@ -56,7 +60,8 @@ He trabajado como desarrollador independiente para:
 
 ### Lenguajes de Programación
 - Java (más de 5 años de experiencia)  
-- Python  
+- Python
+- Cuda
 - SQL / PLSQL / MongoDB  
 - C#  
 - JavaScript  
@@ -91,17 +96,20 @@ He trabajado como desarrollador independiente para:
 - App descargadora de videos (YouTube, X/Twitter, SoundCloud) en MP3/MP4  
 - Desarrollo de aplicaciones móviles con Android SDK  
 - Prototipos de juegos y sistemas interactivos en Unity  
-- Desarrollo de modelos de IA propios, con intención de integrarlos en eventos o mapas de Minecraft
+- Desarrollo de modelos de IA propios e integración de estos
 - Desarrollo de pluggins para discord / vencord
 - Desarrollo de pluggins para Servidores de Minecraft
+- Herramientas de automatización de ciberseguridad
 
 ---
 
 ## Actualmente en activo con
-  
+
+- ElRichMC
 - Soydarmoo  
 - Alan2k2  
-- Chiletian  
+- Chiletian
+- Soukyp  
 - Ayuntamiento de Zaragoza (España)  
 - Como freelance y desarrollador independiente
 
