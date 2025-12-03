@@ -50,6 +50,7 @@ He trabajado como desarrollador independiente para:
 - Canal de Darmitoo
 
 ### Mapas Desarrollados (No datapacks para seris o videos)
+- Final Paradox
 - Gato y Ratón  
 - TheSaladTrap *(en desarrollo)*
 - Mapas Zgamer
