@@ -49,7 +49,7 @@ He trabajado como desarrollador independiente para:
 - Zgamer 2023, 2024 y 2025
 - Canal de Darmitoo
 
-### Mapas Desarrollados (No datapacks para seris o videos)
+### Mapas Desarrollados / colaboraciones
 - Final Paradox
 - Gato y Ratón  
 - TheSaladTrap *(en desarrollo)*
