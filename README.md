@@ -25,11 +25,11 @@ Mi experiencia en Minecraft comenzó en el servidor **2b2t**, como miembro del c
 
 He trabajado como desarrollador independiente para:  
 - **ElRichMC**
-- **Noni**
-- **aXoZer**
+- **Noni** (zgamer)
+- **aXoZer** (zgamer)
 - **Shadoune666**  
-- **Suzyrox**  
-- **Mayichi**  
+- **Suzyrox** (zgamer)  
+- **Mayichi**  (zgamer)
 - **Soydarmoo**  
 - **Chiletian**  
 - **Alan2k2**  
@@ -44,10 +44,11 @@ He trabajado como desarrollador independiente para:
 
 ### Series y Eventos 
 - #SaveMapMaking
-- Genesis y Elorbee – *Soydarmoo*  
+- Genesis, Elorbee2/3 – *Soydarmoo*  
 - Cruzter SMP  
 - Zgamer 2023, 2024 y 2025
 - Canal de Darmitoo
+- datapacks independientes
 
 ### Mapas Desarrollados / colaboraciones
 - Final Paradox
