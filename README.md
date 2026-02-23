@@ -84,6 +84,7 @@ He trabajado como desarrollador independiente para:
 
 ## Ciberseguridad
 
+- Formacion capacitatoria del CNI España
 - Estudiante de **Ciberseguridad e Inteligencia Artificial**  
 - Práctica activa desde **2013**, motivado por los conflictos digitales en **2b2t**  
 - Experiencia práctica en:
